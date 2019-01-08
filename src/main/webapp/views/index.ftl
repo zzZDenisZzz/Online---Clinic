@@ -5,15 +5,15 @@
     <title>Clinic "Alpha Centauri"</title>
     <meta name="description" content="Найкраща клініка Києва"/>
     <meta name="keywords" content="клініка, київ, хвороба">
-    <link href="src/fon/plus.ico" rel="shortcut icon">
-    <link href="src/css/login.css" rel="stylesheet">
+    <link href="/views/fon/plus.ico" rel="shortcut icon" >
+    <link href="/views/css/login.css" rel="stylesheet">
 </head>
 <body>
 <div>
     <header class="logotype">
-        <img src="src/fon/8cEbq8ani.png" align="left" width="100" height="100">
+        <img src="/views/fon/8cEbq8ani.png" align="left" width="100" height="100">
         Clinic "Alpha Centauri"
-        <img src="src/fon/8cEbq8ani.png" align="right" width="100" height="100">
+        <img src="/views/fon/8cEbq8ani.png" align="right" width="100" height="100">
     </header>
 </div>
 <div class="login-page">
