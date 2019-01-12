@@ -23,7 +23,7 @@ public class Patient {
     private int age;
     private String email;
     private String address;
-    @Column(name = "data_of_visit")
+    @Column(name = "date_of_visit")
     private String dateOfVisit;
     private String illness;
 }
