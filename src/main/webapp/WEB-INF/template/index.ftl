@@ -22,7 +22,7 @@
             <input type="text" placeholder="username"/>
             <input type="password" placeholder="password"/>
             <button>login</button>
-            <p><a href="/patients">patients</a></p>
+            <p><a href="/addPatient">patients</a></p>
             <p class="message">Not registered? <a href="#">Create an account</a></p>
         </form>
     </div>

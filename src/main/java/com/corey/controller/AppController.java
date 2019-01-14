@@ -37,7 +37,7 @@ public class AppController {
 
     @GetMapping("/addPatient")
     public String recordVisits(){
-        return "recordPatient";
+        return "patientsForm";
     }
 
     @PostMapping("/addPatient")

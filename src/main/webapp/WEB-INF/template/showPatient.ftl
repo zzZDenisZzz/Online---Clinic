@@ -28,6 +28,10 @@
         <td>${patient.email}</td>
     </tr>
     <tr>
+        <td>Address</td>
+        <td>${patient.address}</td>
+    </tr>
+    <tr>
         <td>dateOfVisit</td>
         <td>${patient.dateOfVisit}</td>
     </tr>
